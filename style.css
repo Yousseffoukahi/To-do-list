@@ -1,7 +1,4 @@
-.container{
-    
-}
-.inpot{
+.input{
     height: 30px;
     width: 25%;
     margin-left: 350px;
@@ -13,7 +10,7 @@
 #inp{
     margin-left: 5px;
 }
-#plus{
+#add{
     border: 1px solid black;
     width: 50px;
     height: 18px;
@@ -29,19 +26,12 @@
     flex-direction: row-reverse;
     height: 24px;
     width: 29%;
-  background-color: white;
-  margin-left: 350px;
-  
-   margin-top: 50px;
-   padding: 5px;
-
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 50px;
+    padding: 5px;
 }
-#inp2{
-    border: none;
-    outline: none;
-    font-size: 5px;
-}
-#delet{
+#delete{
     border: 1px solid rgb(238, 36, 36);
     width: 50px;
     height: 18px;
@@ -52,6 +42,5 @@
     border: 1px solid black;
     width: 50px;
     height: 18px;
-    text-align: center;
-   
+    text-align: center; 
 }
